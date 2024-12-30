@@ -31,10 +31,10 @@ Set Up Environment Variables: Create a .env file and add your Google Generative 
 api_key=your_api_key_here
 Run the Application: Start the Streamlit app using the command:
 streamlit run HR-Assist.py
-<img width="747" alt="Screenshot 2024-12-30 at 8 36 09 PM" src="https://github.com/user-attachments/assets/82f563af-8e50-4966-b839-634cd1c3323e" />
-<img width="1195" alt="Screenshot 2024-12-30 at 8 35 59 PM" src="https://github.com/user-attachments/assets/26e105be-a944-4fc4-85b4-1e41ceee106e" />
 <img width="1697" alt="Screenshot 2024-12-30 at 8 35 45 PM" src="https://github.com/user-attachments/assets/ab0fda84-60f6-4e93-8523-8c4054685aba" />
 <img width="1660" alt="Screenshot 2024-12-30 at 8 35 02 PM" src="https://github.com/user-attachments/assets/7fc909b9-7ac2-489c-9614-358863e8c1fa" />
+<img width="747" alt="Screenshot 2024-12-30 at 8 36 09 PM" src="https://github.com/user-attachments/assets/82f563af-8e50-4966-b839-634cd1c3323e" />
+<img width="1195" alt="Screenshot 2024-12-30 at 8 35 59 PM" src="https://github.com/user-attachments/assets/26e105be-a944-4fc4-85b4-1e41ceee106e" />
 
 
 
