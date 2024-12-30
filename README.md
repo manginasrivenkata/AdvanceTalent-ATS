@@ -1,4 +1,4 @@
-# AdvanceTalent-ATS
+<img width="1682" alt="Screenshot 2024-12-30 at 8 18 48 PM" src="https://github.com/user-attachments/assets/b8aadfdd-ebbf-4815-ac5e-6cd4d0be4e1c" /># AdvanceTalent-ATS
 One of the projects I am most proud of is the Smart Applicant Tracking System (Smart ATS) that I developed. This project addresses the challenges faced in recruitment processes by automating candidate screening and ranking.
 
 The project is to assist the users in enhancing their resumes and to match them with job descriptions. It does the following functions;
@@ -31,6 +31,8 @@ Set Up Environment Variables: Create a .env file and add your Google Generative 
 api_key=your_api_key_here
 Run the Application: Start the Streamlit app using the command:
 streamlit run HR-Assist.py
+
+
 
 
 
