@@ -8,12 +8,12 @@ The project is to assist the users in enhancing their resumes and to match them 
 	•	Match percentage.<br>
 	•	Missing keywords.<br>
 	•	Summary of the resume content.<br>
-Visualizations:<br>
+<b>Visualizations:</b><br>
         •       Bar charts of the best matching resumes.<br>
 	•	Word clouds of the most frequent words in the resumes.<br>
 	•	Box plots of match percentages.<br>
 
-#Generative AI Integration:<br>
+<b>Generative AI Integration:</b><br>
 	•	Incorporates Google’s Generative AI<br>
 	•	Gemini model for state-of-the-art natural language processing<br>
 <b> Key Features</b><br>
