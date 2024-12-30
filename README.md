@@ -3,7 +3,7 @@ One of the projects I am most proud of is the Smart Applicant Tracking System (S
 
 The project is to assist the users in enhancing their resumes and to match them with job descriptions. It does the following functions;
 
-Resume Analysis: Extracts text from uploaded PDF resumes.</n>
+<n>Resume Analysis: Extracts text from uploaded PDF resumes.</n>
 #Job Description Matching: Compares the resumes with the job descriptions and provides the following information:
 	•	Match percentage.</n>
 	•	Missing keywords.</n>
