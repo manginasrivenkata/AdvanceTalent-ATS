@@ -4,16 +4,16 @@ One of the projects I am most proud of is the Smart Applicant Tracking System (S
 The project is to assist the users in enhancing their resumes and to match them with job descriptions. It does the following functions;
 
 Resume Analysis: Extracts text from uploaded PDF resumes.
-Job Description Matching: Compares the resumes with the job descriptions and provides the following information:
+#Job Description Matching: Compares the resumes with the job descriptions and provides the following information:
 	•	Match percentage.
 	•	Missing keywords.
 	•	Summary of the resume content.
-Visualizations:
+#Visualizations:
   •	Bar charts of the best matching resumes.
 	•	Word clouds of the most frequent words in the resumes.
 	•	Box plots of match percentages.
 
-Generative AI Integration:
+#Generative AI Integration:
 	•	Incorporates Google’s Generative AI
 	•	Gemini model for state-of-the-art natural language processing
  Key Features
